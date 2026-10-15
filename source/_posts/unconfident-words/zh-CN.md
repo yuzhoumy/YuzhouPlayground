@@ -4,8 +4,8 @@ date: 2026-03-30 15:36:33
 categories: 
     - Life
 tags: 
-    - Self
     - Language
+    - Thoughts
 ---
 
 ![Modal Words](/images/post/modal-words.jpg)  

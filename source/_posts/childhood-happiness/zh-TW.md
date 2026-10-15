@@ -6,6 +6,7 @@ categories:
 tags: 
   - Childhood
   - Happiness
+  - Thoughts
 author: Yuzhou
 ---
 

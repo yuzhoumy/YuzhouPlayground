@@ -4,7 +4,7 @@ date: 2026-03-30 15:36:33
 categories: 
     - Life
 tags: 
-    - Self
+    - Thoughts
     - Language
 ---
 
