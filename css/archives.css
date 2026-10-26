@@ -1,0 +1,43 @@
+#archives {
+  position: relative;
+  top: 100px;
+  margin: auto;
+  padding: 20px;
+}
+#archives a,
+#archives .tag-icon {
+  color: label-font;
+  text-decoration: none;
+}
+#archives .tags {
+  margin-left: 20px;
+}
+#archives .tags .tag {
+  margin-right: 10px;
+}
+#archives h3 {
+  margin: 10px 0;
+}
+#archives .item-time {
+  color: label-font;
+}
+#archives .post-title-variants {
+  margin: 10px 0;
+}
+#archives .post-title-variants .post-title-variant {
+  display: block;
+  width: fit-content;
+}
+#archives .post-title-variants .post-title-variant.primary {
+  color: posts-title;
+  text-decoration: none;
+}
+#archives .post-title-variants h3 {
+  margin: 0;
+}
+#archives [data-lang-content] {
+  display: none;
+}
+#archives [data-lang-content="en"] {
+  display: block;
+}
