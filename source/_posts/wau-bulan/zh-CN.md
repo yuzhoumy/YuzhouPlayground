@@ -67,7 +67,7 @@ Adat resam yang teguh berdiri
 
 本篇文章开头的第一个视频的原视频是吉兰丹文化与美术局所发布的舞蹈视频，你可以在视频中看到吉兰丹的传统服装。btw我认为他们的颜色相当大胆，我喜欢这种缤纷鲜艳的感觉:)。
 
-<video width="100%" height="300" src="/images/post/jkkn-wau-bulan.mp4" controls></video>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/9muGdIlAeH4" frameborder="0" >
 [来源](https://youtu.be/9muGdIlAeH4)
 
 
