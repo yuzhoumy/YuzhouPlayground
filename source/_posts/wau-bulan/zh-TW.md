@@ -69,7 +69,7 @@ Adat resam yang teguh berdiri
 
 本篇文章開頭的第一個影片的原影片是吉蘭丹文化與美術局所發布的舞蹈影片，你可以在影片中看到吉蘭丹的傳統服裝。btw我認爲他們的顏色相當大膽，我喜歡這種繽紛鮮豔的感覺:)。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9muGdIlAeH4?si=IwjMznQUBnYqVpZS&amp;start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9muGdIlAeH4?si=IwjMznQUBnYqVpZS&amp;start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [來源](https://youtu.be/9muGdIlAeH4)
 
