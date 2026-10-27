@@ -1,6 +1,6 @@
 ---
 title: Wau Bulan 歌词中文翻译
-date: 2026-08-31 18:30:00
+date: 2026-08-28 06:00:00
 categories: 
     - Culture
 tags: 
@@ -23,6 +23,8 @@ tags:
 
 特别是 Taman serendah sekebun bunga 这一句，原文的“serendah”这个词的词根“rendah”是“低”的意思，而在马来价值观中，“rendah”象征谦虚，是一种崇高的品德，而不是贬义词。所以这句更应该是“哪怕只是一座园子，也低如、谦卑如一片花圃”。不仅如此，这一句歌词也和该段的第二句 “Pantai indah kayangan jiwa” 相呼应。“Kayangan” 是天堂的意思，一下子升华到了仙界，而“serendah”这个词则猛然地将意境收拢回到人间。
 
+更新：其实并没有那么复杂，Cahaya Bulan 指的是 Pantai Cahaya Bulan，即是吉兰丹最著名的海滩。Taman Serendah Sekebun Bunga 则是吉兰丹的别名、美称。
+
 注意：以下歌词使用标准马来语拼写，而非吉兰丹方言（上面的视频才是使用吉兰丹方言）。
 
 # Wau Bulan
@@ -38,7 +40,7 @@ Ini malam, sama-sama
 Sama-sama, bersuka ria
 尽情欢歌，共享喜乐
 
-Cahaya bulam tempat perindu
+Cahaya bulan tempat perindu
 皎皎月光，惹人相思
 Pantai indah kayangan jiwa
 绝美海滨，如梦仙境
@@ -67,7 +69,8 @@ Adat resam yang teguh berdiri
 
 本篇文章开头的第一个视频的原视频是吉兰丹文化与美术局所发布的舞蹈视频，你可以在视频中看到吉兰丹的传统服装。btw我认为他们的颜色相当大胆，我喜欢这种缤纷鲜艳的感觉:)。
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/9muGdIlAeH4" frameborder="0" >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9muGdIlAeH4?si=IwjMznQUBnYqVpZS&amp;start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [来源](https://youtu.be/9muGdIlAeH4)
 
 

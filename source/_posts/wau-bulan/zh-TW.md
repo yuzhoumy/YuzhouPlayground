@@ -23,6 +23,8 @@ tags:
 
 特別是 Taman serendah sekebun bunga 這一句，原文的“serendah”這個詞的詞根“rendah”是“低”的意思，而在馬來價值觀中，“rendah”象徵謙虛，是一種崇高的品德，而不是貶義詞。所以這句更應該是“哪怕只是一座園子，也低如、謙卑如一片花圃”。不僅如此，這一句歌詞也和該段的第二句 “Pantai indah kayangan jiwa” 相呼應。“Kayangan” 是天堂的意思，一下子升華到了仙界，而“serendah”這個詞則猛然地將意境收攏回到人間。
 
+更新：其實並沒有那麼復雜，Cahaya Bulan 指的是 Pantai Cahaya Bulan，即是吉蘭丹最著名的海灘。Taman Serendah Sekebun Bunga 則是吉蘭丹的別名、美稱。
+
 注意：以下歌詞使用標準馬來語拼寫，而非吉蘭丹方言（上面的影片才是使用吉蘭丹方言）。
 
 # Wau Bulan
@@ -38,7 +40,7 @@ Ini malam, sama-sama
 Sama-sama, bersuka ria
 盡情歡歌，共享喜樂
 
-Cahaya bulam tempat perindu
+Cahaya bulan tempat perindu
 皎皎月光，惹人相思
 Pantai indah kayangan jiwa
 絕美海濱，如夢仙境
@@ -67,7 +69,8 @@ Adat resam yang teguh berdiri
 
 本篇文章開頭的第一個影片的原影片是吉蘭丹文化與美術局所發布的舞蹈影片，你可以在影片中看到吉蘭丹的傳統服裝。btw我認爲他們的顏色相當大膽，我喜歡這種繽紛鮮豔的感覺:)。
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/9muGdIlAeH4" frameborder="0" >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9muGdIlAeH4?si=IwjMznQUBnYqVpZS&amp;start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [來源](https://youtu.be/9muGdIlAeH4)
 
 
